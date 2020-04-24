@@ -25,7 +25,7 @@
         <News preview='true' :content="obj" v-for="obj in news"/>
         <v-pagination
           v-model="meta.current_page"
-          :length="meta.total"
+          :length="meta.last_page"
           prev-icon="mdi-menu-left"
           next-icon="mdi-menu-right"
           @input="next"
