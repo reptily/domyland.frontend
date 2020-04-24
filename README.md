@@ -2,7 +2,7 @@
 
 * Клонируем репозиторий
 ```bash
-git clone git@github.com:reptily/domyland.backend.git
+git clone git@github.com:reptily/domyland.frontend.git
 ```
 
 * Переходим в директорию с проектом
